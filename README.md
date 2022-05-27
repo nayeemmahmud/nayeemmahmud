@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nayeemmahmud
-- 👀 I’m interested in Flutter app Development
+- 👀 I’m interested in app Development
 - 🌱 I’m currently learning Flutter app devlopment
 - 💞️ I’ve learned java, Kotlin and dart.
 - 📫 How to reach me? go to insta and find  @__blackstonee__ ...
